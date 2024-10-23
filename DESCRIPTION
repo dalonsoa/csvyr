@@ -1,11 +1,10 @@
 Package: csvyr
 Type: Package
-Title: What the Package Does (Title Case)
+Title: CSV Reader/Writer With YAML Header
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Diego Alonso Alvarez
+Maintainer: Diego Alonso Alvarez <d.alonso-alvarez@imperial.ac.uk>
+Description: Some fancy stuf.
+License: BSD-3-Clause license + file LICENSE
 Encoding: UTF-8
 LazyData: true
